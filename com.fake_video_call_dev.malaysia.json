@@ -1,0 +1,77 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"AADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Malaysia Girlfriend",
+      "image": "file:///android_asset/image/malaysiacewek6.png",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Gadis",
+      "image_url": "file:///android_asset/image/malaysiacewek1.png",
+      "video_url": "malaysiavideo1",
+      "voice_url": "malaysiacewek1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Gadis",
+      "image_url": "file:///android_asset/image/malaysiacewek2.png",
+      "video_url": "malaysiavideo2",
+      "voice_url": "malaysiacewek2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Gadis",
+      "image_url": "file:///android_asset/image/malaysiacewek3.png",
+      "video_url": "malaysiavideo3",
+      "voice_url": "malaysiacewek3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Gadis",
+      "image_url": "file:///android_asset/image/malaysiacewek4.png",
+      "video_url": "malaysiavideo4",
+      "voice_url": "malaysiacewek4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Gadis",
+      "image_url": "file:///android_asset/image/malaysiacewek5.png",
+      "video_url": "malaysiavideo5",
+      "voice_url": "malaysiacewek5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Gadis",
+      "image_url": "file:///android_asset/image/malaysiacewek6.png",
+      "video_url": "malaysiavideo6",
+      "voice_url": "malaysiacewek6.mp3"
+    }
+  ]
+}

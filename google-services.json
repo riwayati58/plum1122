@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "787622972350",
+    "project_id": "riwayati2-8ef68",
+    "storage_bucket": "riwayati2-8ef68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787622972350:android:4298a4453487677bfdc7ef",
+        "android_client_info": {
+          "package_name": "com.fake_video_call_dev.videocall.cewek.cantik.buat.jomblo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787622972350-m1p9u26c8g8t7eoi09p4thjn0bkh085b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlghVl236xJ_oKwO5MufvyDuyH2bYTf7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787622972350-m1p9u26c8g8t7eoi09p4thjn0bkh085b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787622972350:android:6ca992c4fc2cd464fdc7ef",
+        "android_client_info": {
+          "package_name": "com.pnymertua.fake_video_call_dev.arigana_family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787622972350-m1p9u26c8g8t7eoi09p4thjn0bkh085b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlghVl236xJ_oKwO5MufvyDuyH2bYTf7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787622972350-m1p9u26c8g8t7eoi09p4thjn0bkh085b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787622972350:android:9731c92879a7f2a2fdc7ef",
+        "android_client_info": {
+          "package_name": "com.pnymertua.fake_video_call_dev.india.sexy.hot.girl.fake.call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787622972350-m1p9u26c8g8t7eoi09p4thjn0bkh085b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlghVl236xJ_oKwO5MufvyDuyH2bYTf7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787622972350-m1p9u26c8g8t7eoi09p4thjn0bkh085b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

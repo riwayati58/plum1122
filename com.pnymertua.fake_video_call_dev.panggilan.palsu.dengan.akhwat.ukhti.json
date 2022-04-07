@@ -1,0 +1,84 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Video Call Akhwat",
+      "image": "file:///android_asset/image/akhwatgamba2.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.panggilan.palsu.dengan.akhwat.ukhti"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Akhwat",
+      "image_url": "file:///android_asset/image/akhwatgamba1.png",
+      "video_url": "videoakhwatukhti1",
+      "voice_url": "akhwatsuara1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Akhwat",
+      "image_url": "file:///android_asset/image/akhwatgamba2.png",
+      "video_url": "videoakhwatukhti2",
+      "voice_url": "akhwatsuara2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Akhwat",
+      "image_url": "file:///android_asset/image/akhwatgamba3.png",
+      "video_url": "videoakhwatukhti3",
+      "voice_url": "akhwatsuara3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Akhwat",
+      "image_url": "file:///android_asset/image/akhwatgamba4.png",
+      "video_url": "videoakhwatukhti4",
+      "voice_url": "akhwatsuara4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Akhwat",
+      "image_url": "file:///android_asset/image/akhwatgamba5.png",
+      "video_url": "videoakhwatukhti5",
+      "voice_url": "akhwatsuara5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Akhwat",
+      "image_url": "file:///android_asset/image/akhwatgamba6.png",
+      "video_url": "videoakhwatukhti6",
+      "voice_url": "akhwatsuara6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Akhwat",
+      "image_url": "file:///android_asset/image/akhwatgamba7.png",
+      "video_url": "videoakhwatukhti7",
+      "voice_url": "akhwatsuara7.mp3"
+    }
+  ]
+}

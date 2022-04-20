@@ -1,0 +1,84 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Japanese Girl",
+      "image": "file:///android_asset/image/japanbnese.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.japanese.video.girlfried"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Hijaber",
+      "image_url": "file:///android_asset/image/hijaberimages1.png",
+      "video_url": "hijabervuiiddo1",
+      "voice_url": "hijabervuiiddo1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Hijaber",
+      "image_url": "file:///android_asset/image/hijaberimages2.png",
+      "video_url": "hijabervuiiddo2",
+      "voice_url": "hijabervuiiddo2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Hijaber",
+      "image_url": "file:///android_asset/image/hijaberimages3.png",
+      "video_url": "hijabervuiiddo3",
+      "voice_url": "hijabervuiiddo3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Hijaber",
+      "image_url": "file:///android_asset/image/hijaberimages4.png",
+      "video_url": "hijabervuiiddo4",
+      "voice_url": "hijabervuiiddo4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Hijaber",
+      "image_url": "file:///android_asset/image/hijaberimages5.png",
+      "video_url": "hijabervuiiddo5",
+      "voice_url": "hijabervuiiddo5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Hijaber",
+      "image_url": "file:///android_asset/image/hijaberimages6.png",
+      "video_url": "hijabervuiiddo6",
+      "voice_url": "hijabervuiiddo6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Hijaber",
+      "image_url": "file:///android_asset/image/hijaberimages7.png",
+      "video_url": "hijabervuiiddo7",
+      "voice_url": "hijabervuiiddo7.mp3"
+    }
+  ]
+}

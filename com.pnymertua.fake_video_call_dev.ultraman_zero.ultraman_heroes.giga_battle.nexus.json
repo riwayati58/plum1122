@@ -1,0 +1,70 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Arinaga Family",
+      "image": "file:///android_asset/image/arinagafamily.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.arigana_family"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/ultramansektroa1.png",
+      "video_url": "uultramenviddda1",
+      "voice_url": "suaraultraman1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/ultramansektroa2.png",
+      "video_url": "uultramenviddda2",
+      "voice_url": "suaraultraman2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/ultramansektroa3.png",
+      "video_url": "uultramenviddda3",
+      "voice_url": "suaraultraman3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/ultramansektroa4.png",
+      "video_url": "uultramenviddda4",
+      "voice_url": "suaraultraman4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/ultramansektroa5.png",
+      "video_url": "uultramenviddda5",
+      "voice_url": "suaraultraman5.mp3"
+    }
+  ]
+}

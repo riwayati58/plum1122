@@ -1,0 +1,70 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Japanese Girl",
+      "image": "file:///android_asset/image/japanbnese.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.japanese.video.girlfried"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Alejo Igoa",
+      "image_url": "file:///android_asset/image/alejoigoagambaijmmage1.png",
+      "video_url": "alejoigoagavide1",
+      "voice_url": "alejoigoagasua1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Alejo Igoa",
+      "image_url": "file:///android_asset/image/alejoigoagambaijmmage2.png",
+      "video_url": "alejoigoagavide2",
+      "voice_url": "alejoigoagasua2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Alejo Igoa",
+      "image_url": "file:///android_asset/image/alejoigoagambaijmmage3.png",
+      "video_url": "alejoigoagavide3",
+      "voice_url": "alejoigoagasua3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Alejo Igoa",
+      "image_url": "file:///android_asset/image/alejoigoagambaijmmage4.png",
+      "video_url": "alejoigoagavide4",
+      "voice_url": "alejoigoagasua4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Alejo Igoa",
+      "image_url": "file:///android_asset/image/alejoigoagambaijmmage5.png",
+      "video_url": "alejoigoagavide5",
+      "voice_url": "alejoigoagasua5.mp3"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Ria Ricis",
+      "image": "file:///android_asset/image/riaricis.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.ria_ricis.teuku_riyan.fake.call"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fuji Thoriq",
+      "image_url": "file:///android_asset/image/fujigalafakjecall1.png",
+      "video_url": "fujigalafakvideoo1",
+      "voice_url": "fujigalafakvsuarampaa1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fuji Thoriq",
+      "image_url": "file:///android_asset/image/fujigalafakjecall2.png",
+      "video_url": "fujigalafakvideoo2",
+      "voice_url": "fujigalafakvsuarampaa2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fuji Thoriq",
+      "image_url": "file:///android_asset/image/fujigalafakjecall3.png",
+      "video_url": "fujigalafakvideoo3",
+      "voice_url": "fujigalafakvsuarampaa3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fuji Thoriq",
+      "image_url": "file:///android_asset/image/fujigalafakjecall4.png",
+      "video_url": "fujigalafakvideoo4",
+      "voice_url": "fujigalafakvsuarampaa4.mp3"
+    }
+  ]
+}

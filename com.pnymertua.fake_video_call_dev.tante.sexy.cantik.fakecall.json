@@ -1,0 +1,90 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Hijaber",
+      "image": "file:///android_asset/image/hijaber.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.hijaber.cewek.imut.cantik"
+    },
+    {
+      "id": 2,
+      "title": "Japanese",
+      "image": "file:///android_asset/image/japanbnese.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.japanese.video.girlfried"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Tante",
+      "image_url": "file:///android_asset/image/tantekusayangimage1.png",
+      "video_url": "tantevideookuu1",
+      "voice_url": "tantekusayangisuar1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Tante",
+      "image_url": "file:///android_asset/image/tantekusayangimage2.png",
+      "video_url": "tantevideookuu2",
+      "voice_url": "tantekusayangisuar2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Tante",
+      "image_url": "file:///android_asset/image/tantekusayangimage3.png",
+      "video_url": "tantevideookuu3",
+      "voice_url": "tantekusayangisuar3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Tante",
+      "image_url": "file:///android_asset/image/tantekusayangimage4.png",
+      "video_url": "tantevideookuu4",
+      "voice_url": "tantekusayangisuar4.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Tante",
+      "image_url": "file:///android_asset/image/tantekusayangimage5.png",
+      "video_url": "tantevideookuu5",
+      "voice_url": "tantekusayangisuar5.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Tante",
+      "image_url": "file:///android_asset/image/tantekusayangimage6.png",
+      "video_url": "tantevideookuu6",
+      "voice_url": "tantekusayangisuar6.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Tante",
+      "image_url": "file:///android_asset/image/tantekusayangimage7.png",
+      "video_url": "tantevideookuu7",
+      "voice_url": "tantekusayangisuar7.mp3"
+    }
+  ]
+}

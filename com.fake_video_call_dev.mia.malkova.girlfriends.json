@@ -1,0 +1,70 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Maria Ozawa",
+      "image": "file:///android_asset/image/miyabi.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.maria.ozawa.girlfriends.miyabi"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Mia Malkova",
+      "image_url": "file:///android_asset/image/ftmiamalkovagam1.png",
+      "video_url": "ftmiamalkovavidd1",
+      "voice_url": "ftmiamalkovasuaraa1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Mia Malkova",
+      "image_url": "file:///android_asset/image/ftmiamalkovagam2.png",
+      "video_url": "ftmiamalkovavidd2",
+      "voice_url": "ftmiamalkovasuaraa2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Mia Malkova",
+      "image_url": "file:///android_asset/image/ftmiamalkovagam3.png",
+      "video_url": "ftmiamalkovavidd3",
+      "voice_url": "ftmiamalkovasuaraa1.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Mia Malkova",
+      "image_url": "file:///android_asset/image/ftmiamalkovagam4.png",
+      "video_url": "ftmiamalkovavidd4",
+      "voice_url": "ftmiamalkovasuaraa2.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Mia Malkova",
+      "image_url": "file:///android_asset/image/ftmiamalkovagam5.png",
+      "video_url": "ftmiamalkovavidd5",
+      "voice_url": "ftmiamalkovasuaraa1.mp3"
+    }
+  ]
+}

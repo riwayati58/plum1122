@@ -1,0 +1,75 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Yenni Inka",
+      "image": "file:///android_asset/image/yenniinkka.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.yenni.inka.panggilan.palsu"
+    },
+	{
+      "id": 2,
+      "title": "Happy Asmara",
+      "image": "file:///android_asset/image/happyasmara.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.happy.asmara.panggilan.palsu"
+    },
+	{
+      "id": 3,
+      "title": "Denny Caknan",
+      "image": "file:///android_asset/image/dennycaknan.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.denny.caknan.panggilan.palsu"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fanny Call",
+      "image_url": "file:///android_asset/image/imagefanny1.png",
+      "video_url": "imagefannyta1",
+      "voice_url": "imagefanndrf1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fanny Call",
+      "image_url": "file:///android_asset/image/imagefanny2.png",
+      "video_url": "imagefannyta2",
+      "voice_url": "imagefanndrf2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fanny Call",
+      "image_url": "file:///android_asset/image/imagefanny3.png",
+      "video_url": "imagefannyta3",
+      "voice_url": "imagefanndrf3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fanny Call",
+      "image_url": "file:///android_asset/image/imagefanny4.png",
+      "video_url": "imagefannyta4",
+      "voice_url": "imagefanndrf4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-1722129164883844/1606974332",
+      "main_ads_intertitial":"ca-app-pub-1722129164883844/7980810994",
+      "native_for_admob":"ca-app-pub-1722129164883844/4041565982",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "India Girlfriends",
+      "image": "file:///android_asset/image/india.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.india.sexy.hot.girl.fake.call"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Sunny Leone",
+      "image_url": "file:///android_asset/image/sunnleonegambarr1.png",
+      "video_url": "sunnleonevideo1",
+      "voice_url": "sunnleonejmpsua1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Sunny Leone",
+      "image_url": "file:///android_asset/image/sunnleonegambarr2.png",
+      "video_url": "sunnleonevideo2",
+      "voice_url": "sunnleonejmpsua2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Sunny Leone",
+      "image_url": "file:///android_asset/image/sunnleonegambarr3.png",
+      "video_url": "sunnleonevideo3",
+      "voice_url": "sunnleonejmpsua3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Sunny Leone",
+      "image_url": "file:///android_asset/image/sunnleonegambarr4.png",
+      "video_url": "sunnleonevideo4",
+      "voice_url": "sunnleonejmpsua4.mp3"
+    }
+  ]
+}

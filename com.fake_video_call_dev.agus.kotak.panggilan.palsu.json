@@ -1,0 +1,82 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-1722129164883844/1090015309",
+      "main_ads_intertitial":"ca-app-pub-1722129164883844/8269667173",
+      "native_for_admob":"ca-app-pub-1722129164883844/3524606953",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Yenni Inka",
+      "image": "file:///android_asset/image/yenniinkka.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.yenni.inka.panggilan.palsu"
+    },
+	{
+      "id": 2,
+      "title": "Happy Asmara",
+      "image": "file:///android_asset/image/happyasmara.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.happy.asmara.panggilan.palsu"
+    },
+	{
+      "id": 3,
+      "title": "Denny Caknan",
+      "image": "file:///android_asset/image/dennycaknan.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.denny.caknan.panggilan.palsu"
+    },
+	{
+      "id": 4,
+      "title": "Cak Percil",
+      "image": "file:///android_asset/image/cakpercill.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fake_video_call_dev.cak.percil.panggilan.palsu"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Agus Kotak",
+      "image_url": "file:///android_asset/image/egagambar1.png",
+      "video_url": "egagvidee1",
+      "voice_url": "egagvisuarr1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Agus Kotak",
+      "image_url": "file:///android_asset/image/egagambar2.png",
+      "video_url": "egagvidee2",
+      "voice_url": "egagvisuarr2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Agus Kotak",
+      "image_url": "file:///android_asset/image/egagambar3.png",
+      "video_url": "egagvidee3",
+      "voice_url": "egagvisuarr3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Agus Kotak",
+      "image_url": "file:///android_asset/image/egagambar4.png",
+      "video_url": "egagvidee4",
+      "voice_url": "egagvisuarr4.mp3"
+    }
+  ]
+}

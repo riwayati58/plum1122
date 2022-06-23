@@ -1,0 +1,64 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-1722129164883844/8006244614",
+      "main_ads_intertitial":"ca-app-pub-1722129164883844/7258470855",
+      "native_for_admob":"ca-app-pub-1722129164883844/5945389181",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Thailand Girlfriends",
+      "image": "file:///android_asset/image/Thailand.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.thailan.sexy.hot.beautifull.girlfriends"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/zbingzimages1.png",
+      "video_url": "zbingzviodeoo1",
+      "voice_url": "zbingzsuaraa1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/zbingzimages2.png",
+      "video_url": "zbingzviodeoo2",
+      "voice_url": "zbingzsuaraa2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/zbingzimages3.png",
+      "video_url": "zbingzviodeoo3",
+      "voice_url": "zbingzsuaraa3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Zbingz",
+      "image_url": "file:///android_asset/image/zbingzimages4.png",
+      "video_url": "zbingzviodeoo4",
+      "voice_url": "zbingzsuaraa4.mp3"
+    }
+  ]
+}

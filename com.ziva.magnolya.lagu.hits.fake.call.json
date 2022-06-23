@@ -1,0 +1,78 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-1722129164883844/8948362018",
+      "main_ads_intertitial":"ca-app-pub-1722129164883844/5188509588",
+      "native_for_admob":"ca-app-pub-1722129164883844/4632307517",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Ria Ricis",
+      "image": "file:///android_asset/image/riaricis.png",
+      "link": "https://play.google.com/store/apps/details?id=com.pnymertua.fake_video_call_dev.ria_ricis.teuku_riyan.fake.call"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Ziva Magnolya",
+      "image_url": "file:///android_asset/image/zivamagnolayagambarr1.png",
+      "video_url": "zivamagnolayavidgra1",
+      "voice_url": "zivamagnolayasuamppp1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Ziva Magnolya",
+      "image_url": "file:///android_asset/image/zivamagnolayagambarr2.png",
+      "video_url": "zivamagnolayavidgra2",
+      "voice_url": "zivamagnolayasuamppp2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Ziva Magnolya",
+      "image_url": "file:///android_asset/image/zivamagnolayagambarr3.png",
+      "video_url": "zivamagnolayavidgra3",
+      "voice_url": "zivamagnolayasuamppp3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Ziva Magnolya",
+      "image_url": "file:///android_asset/image/zivamagnolayagambarr4.png",
+      "video_url": "zivamagnolayavidgra4",
+      "voice_url": "zivamagnolayasuamppp4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Ziva Magnolya",
+      "image_url": "file:///android_asset/image/zivamagnolayagambarr5.png",
+      "video_url": "zivamagnolayavidgra5",
+      "voice_url": "zivamagnolayasuamppp5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Ziva Magnolya",
+      "image_url": "file:///android_asset/image/zivamagnolayagambarr6.png",
+      "video_url": "zivamagnolayavidgra6",
+      "voice_url": "zivamagnolayasuamppp6.mp3"
+    }
+  ]
+}
